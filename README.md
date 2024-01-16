@@ -6,7 +6,7 @@
 
 Using Machine Learning to analyse data associated with the top television series on IMDB.
 
-Evaluation 1 - Machine Learning - SA2023 - Guillaume Guex.
+Evaluation 1 - Machine Learning - SA2023 - Guillaume Guex. 90%.
 
 ## Installations
 
