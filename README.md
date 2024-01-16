@@ -1,5 +1,7 @@
 # ML-TV-IMDB
 
+![Result of Clustering](clustering_image.png)
+
 ## Outline
 
 Using Machine Learning to analyse data associated with the top television series on IMDB.
